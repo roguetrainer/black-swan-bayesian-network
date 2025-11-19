@@ -8,6 +8,7 @@ The examples focuses on modelling  **black swan events**:
 * the potential breakup of the Eurozone, and its cascading effects on financial markets ~2010-2012
 * Trump's tariffs affecting global trade in 2025
 
+![Black Swan](blackswan.png)
 
 
 ### Taleb's Black Swan
