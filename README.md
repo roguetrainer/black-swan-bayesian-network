@@ -4,7 +4,29 @@
 
 This implementation demonstrates the Bayesian network methodology from **"Portfolio Management under Stress: A Bayesian-Net Approach to Coherent Asset Allocation"** by Riccardo Rebonato and Alexander Denev (Cambridge University Press, 2014).
 
-The example focuses on modeling a **black swan event**: the potential breakup of the Eurozone, and its cascading effects on financial markets.
+The examples focuses on modelling  **black swan events**: 
+* the potential breakup of the Eurozone, and its cascading effects on financial markets ~2010-2012
+* Trump's tariffs affecting global trade in 2025
+
+
+
+### Taleb's Black Swan
+
+The term **Black Swan** in the context of financial risk and broader impact was popularized by writer, statistician, and former options trader **Nassim Nicholas Taleb**.
+
+He extensively discussed the concept in his 2007 book, *The Black Swan: The Impact of the Highly Improbable*.
+
+#### 🦢 What a Black Swan Event Means
+
+According to Taleb, a Black Swan event is an event with three principal attributes:
+
+🦤  **Rarity (The Outlier):** It is an **outlier** because it lies outside the realm of regular expectations, as nothing in the past definitively points to its possibility.
+💣  **Extreme Impact:** It carries an **extreme impact** when it occurs, causing widespread and severe consequences across markets, economies, or societies.
+🔮  **Retrospective Predictability:** In spite of its outlier status, human nature leads people to invent explanations for it **after the fact**, making it appear predictable in hindsight (known as *hindsight bias*).
+
+In finance, these events are particularly dangerous because standard risk models often fail to account for them, leading to massive, unpredictable losses. Examples often cited include the **2008 Global Financial Crisis** and the **COVID-19 pandemic**.
+
+If you'd like to know more about Taleb's other concepts, 🕵️‍♀️ search for **Antifragility**.
 
 ## Key Innovation: Causal Modeling for Stress Testing
 
