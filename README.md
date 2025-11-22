@@ -6,10 +6,16 @@ This implementation demonstrates the Bayesian network methodology from **"Portfo
 
 The examples focuses on modelling  **black swan events**: 
 * the potential breakup of the Eurozone, and its cascading effects on financial markets ~2010-2012
-* Trump's tariffs affecting global trade in 2025
+* Trump's tariffs affecting global trade in 2025 
+   * [TRUMP_TARIFFS_2025_ANALYSIS.md](https://github.com/roguetrainer/black-swan-bayesian-network/blob/main/TRUMP_TARIFFS_2025_ANALYSIS.md)
+   * [trump_tariffs_2025_blackswan.py](https://github.com/roguetrainer/black-swan-bayesian-network/blob/main/trump_tariffs_2025_blackswan.py)
+
+---
+---
 
 ![Black Swan](blackswan.png)
-
+---
+---
 
 ### Taleb's Black Swan
 
